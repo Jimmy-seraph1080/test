@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "309937193330",
+    "project_id": "eviraecom",
+    "storage_bucket": "eviraecom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309937193330:android:44c2dbdff39850cb999deb",
+        "android_client_info": {
+          "package_name": "io.builderking.evira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309937193330-ofn5alh3srtun05v7td5g45tfju6qhk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.builderking.evira",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "309937193330-bbfrnm8vtkchr84go78slbgu72v649lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCRLCMetKF5ShEpkMPhedQE6W2iJHxMeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309937193330-bbfrnm8vtkchr84go78slbgu72v649lg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "309937193330-19hkul3i3og907u1vig9egpn6puln9vo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.builderking.evira"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309937193330:android:3e033e2adbea09bc999deb",
+        "android_client_info": {
+          "package_name": "io.builderking.hiva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309937193330-cn09uu06l0vc6sn1bm6v6811ipupkq3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.builderking.hiva",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "309937193330-bbfrnm8vtkchr84go78slbgu72v649lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCRLCMetKF5ShEpkMPhedQE6W2iJHxMeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309937193330-bbfrnm8vtkchr84go78slbgu72v649lg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "309937193330-19hkul3i3og907u1vig9egpn6puln9vo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.builderking.evira"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
